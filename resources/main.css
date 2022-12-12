@@ -40,6 +40,17 @@ body {
     margin: 10px;
 }
 
+.logo a {
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    z-index: 3;
+    background: url(img/logo.png) no-repeat;
+    width: 151px;
+    height: 66px;
+    text-indent: -9000px;
+}
+
 #area-menu {
     right: 0;
     width: 450px;
@@ -81,13 +92,7 @@ a.reserva {
 
 }
 
-.logo a {
-    position: absolute;
-    top: 15px;
-    left: 15px;
-    z-index: 3;
-    background: url(img/logo.png) no-repeat;
-    width: 151px;
-    height: 66px;
-    text-indent: -9000px;
+#menu-lista {
+    margin-top: 15px;
+    
 }
