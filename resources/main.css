@@ -146,7 +146,7 @@ ul#navegacao a:hover {
     cursor: pointer;
   }
   
-  .edit {
+  #beneficios li.edit {
     border-bottom: inherit;
   }
   
