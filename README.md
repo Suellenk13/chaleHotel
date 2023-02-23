@@ -8,8 +8,7 @@ A estrutura do site se divide em:
 #
 
 Prévia do site - HOME:
-
-#
+![home-chale-hotel](https://user-images.githubusercontent.com/117856411/220796977-c65740bd-f8c3-4abf-9b02-219d0ed1cce5.png)
 
 Criado em 12/2021
 
